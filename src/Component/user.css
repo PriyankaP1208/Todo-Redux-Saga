@@ -1,0 +1,21 @@
+.row{
+    margin-top: 50px;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    column-gap: 100px;
+}
+
+.row-1{
+    width: 50px;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+.button {
+    margin-left: 20px;
+    width: 10%;
+    background-color:burlywood;
+}
